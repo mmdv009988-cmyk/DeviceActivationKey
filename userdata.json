@@ -11,18 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-[
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
+  {
         "device_id": "76fef5e4f7af1f7c",
-        "key": "nexx8",
+        "key": "nextr",
         "expirydate": "15-06-2029",
         "Allowoffline": false
-    }
-]
-{
+  },
+[
