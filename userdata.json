@@ -17,4 +17,10 @@
         "expirydate": "15-06-2029",
         "Allowoffline": false
     },
+  {
+        "device_id": "00a2407b125cff96",
+        "key": "amir676",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
