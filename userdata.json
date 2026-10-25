@@ -6,16 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "koni",
-        "key": "76fef5e4f7af1f7c",
+        "device_id": "76fef5e4f7af1f7c",
+        "key": "1",
         "expirydate": "15-06-2027",
         "Allowoffline": false
-    },
-{
-        "device_id": "76fef5e4f7af1f7c",
-        "key": "koni",
-        "expirydate": "15-06-2029",
-        "Allowoffline": false
-  },
+    }
 ]
-    
